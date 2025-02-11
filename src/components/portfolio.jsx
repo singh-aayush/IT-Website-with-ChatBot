@@ -47,7 +47,7 @@ function Portfolio() {
         <div className="portfolio-projects">
           {projects.map((project) => (
             <div key={project.id} className="project-card">
-              <img src="/src/Image/download.jpg" alt={project.title} />
+              <img src="/public/Image/download.jpg" alt={project.title} />
               <div className="project-info">
                 <h3>{project.title}</h3>
                 <p>{project.description}</p>

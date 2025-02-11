@@ -81,21 +81,24 @@ function About() {
         <div className="cardSection">
           <div className="cards">
             <div className="cardOne card">
-              <img src="/src/Image/mission.png" alt="our vision image" />
+              <img src="/public/Image/mission.png" alt="our vision image" />
               <div className="description">
                 Innovating to deliver value and build lasting partnerships for
                 business success in a changing world.
               </div>
             </div>
             <div className="cardTwo card">
-              <img src="/src/Image/expertise.png" alt="our expertise image" />
+              <img
+                src="/public/Image/expertise.png"
+                alt="our expertise image"
+              />
               <div className="description">
                 Specialized in IT Industry, we provide tailored solutions to
                 help clients thrive in a competitive market.
               </div>
             </div>
             <div className="cardThree card">
-              <img src="/src/Image/values.png" alt="our values image" />
+              <img src="/public/Image/values.png" alt="our values image" />
               <div className="description">
                 Guided by integrity, collaboration, and excellence, we ensure
                 success through ethical practices and high standards.
@@ -163,52 +166,6 @@ function About() {
           </button>
         </div>
       </div>
-      {/* <Carousel slide={false}>
-        <Carousel.Item>
-          <ExampleCarouselImage text="First slide" />
-          <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-          </Carousel.Caption>
-        </Carousel.Item>
-        <Carousel.Item>
-          <ExampleCarouselImage text="Second slide" />
-          <Carousel.Caption>
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-          </Carousel.Caption>
-        </Carousel.Item>
-        <Carousel.Item>
-          <ExampleCarouselImage text="Third slide" />
-          <Carousel.Caption>
-            <h3>Third slide label</h3>
-            <p>
-              Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-            </p>
-          </Carousel.Caption>
-        </Carousel.Item>
-        <Carousel.Item>
-          <ExampleCarouselImage text="Fourth slide" />
-          <Carousel.Caption>
-            <h3>Third slide label</h3>
-            <p>
-              Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-            </p>
-          </Carousel.Caption>
-        </Carousel.Item>
-        <Carousel.Item>
-          <ExampleCarouselImage text="Fifth slide" />
-          <Carousel.Caption>
-            <h3>Third slide label</h3>
-            <p>
-              Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-            </p>
-          </Carousel.Caption>
-        </Carousel.Item>
-      </Carousel> */}
-      {/* <ImageCarousel></ImageCarousel> */}
-
-      {/* <Footer></Footer> */}
     </div>
   );
 }
