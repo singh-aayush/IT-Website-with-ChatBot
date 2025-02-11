@@ -10,7 +10,7 @@ function Home() {
       <div className="homeContainer">
         <div className="headingSection">
           <h1>
-            Tech<span>Nova</span>
+            My<span>Tech</span>
           </h1>
           <h2>Innovating the Future, One Byte at a Time</h2>
           <p>

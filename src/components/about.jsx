@@ -75,7 +75,7 @@ function About() {
     <div className="aboutContainer">
       <div className="aboutSection">
         <h1>
-          Know More About <span>TechNova</span>
+          Know More About <span>MyTech</span>
         </h1>
         <h2>Who We Are?</h2>
         <div className="cardSection">
@@ -114,8 +114,8 @@ function About() {
             <p>
               We aim to create a smarter and more connected world by leveraging
               the latest advancements in AI, cloud computing, and software
-              development. TechNova is committed to pushing boundaries and
-              shaping the future of technology.
+              development. MyTech is committed to pushing boundaries and shaping
+              the future of technology.
             </p>
           </div>
           <div className="chooseUsSection">
