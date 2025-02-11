@@ -81,7 +81,7 @@ function About() {
         <div className="cardSection">
           <div className="cards">
             <div className="cardOne card">
-              <img src="/public/Image/mission.png" alt="our vision image" />
+              <img src="/public/image/mission.png" alt="our vision image" />
               <div className="description">
                 Innovating to deliver value and build lasting partnerships for
                 business success in a changing world.
@@ -89,7 +89,7 @@ function About() {
             </div>
             <div className="cardTwo card">
               <img
-                src="/public/Image/expertise.png"
+                src="/public/image/expertise.png"
                 alt="our expertise image"
               />
               <div className="description">
@@ -98,7 +98,7 @@ function About() {
               </div>
             </div>
             <div className="cardThree card">
-              <img src="/public/Image/values.png" alt="our values image" />
+              <img src="/public/image/values.png" alt="our values image" />
               <div className="description">
                 Guided by integrity, collaboration, and excellence, we ensure
                 success through ethical practices and high standards.
