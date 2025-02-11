@@ -5,7 +5,7 @@ function Navbar() {
     <div className="navbarContainer">
       <nav>
         <div className="companyLogo">
-          <img src="/public/image/logo.webp" alt="company-logo" />
+          <img src="/image/logo.webp" alt="company-logo" />
         </div>
         <div className="pageOptions">
           <ul>

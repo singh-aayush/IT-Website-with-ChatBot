@@ -81,24 +81,21 @@ function About() {
         <div className="cardSection">
           <div className="cards">
             <div className="cardOne card">
-              <img src="/public/image/mission.png" alt="our vision image" />
+              <img src="/image/mission.png" alt="our vision image" />
               <div className="description">
                 Innovating to deliver value and build lasting partnerships for
                 business success in a changing world.
               </div>
             </div>
             <div className="cardTwo card">
-              <img
-                src="/public/image/expertise.png"
-                alt="our expertise image"
-              />
+              <img src="/image/expertise.png" alt="our expertise image" />
               <div className="description">
                 Specialized in IT Industry, we provide tailored solutions to
                 help clients thrive in a competitive market.
               </div>
             </div>
             <div className="cardThree card">
-              <img src="/public/image/values.png" alt="our values image" />
+              <img src="/image/values.png" alt="our values image" />
               <div className="description">
                 Guided by integrity, collaboration, and excellence, we ensure
                 success through ethical practices and high standards.
